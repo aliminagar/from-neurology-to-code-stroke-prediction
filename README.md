@@ -92,7 +92,9 @@ The series documents the methodology of moving from clinical reasoning to applie
 
 ## About the author
 
-Alireza Minagar, MD — Adjunct Professor at the University of Maryland Global Campus. Former Professor and Chair of Neurology at LSU Health Sciences Center. AWS Certified Machine Learning – Specialty. 290+ peer-reviewed publications across neurology, neuro-immunology, and computational neuroscience. Building healthcare AI portfolios and writing about the intersection of clinical reasoning and machine learning.
+## About the author
+
+Alireza Minagar — Software and Machine Learning Engineer building healthcare AI portfolios. Adjunct Professor at the University of Maryland Global Campus, where I teach graduate-level software engineering and AI-augmented development. Background in academic neurology with a substantial publication record in computational neuroscience and neuro-immunology. AWS Certified Machine Learning – Specialty.
 
 - LinkedIn: [linkedin.com/in/alireza-minagar-b450aa173](https://www.linkedin.com/in/alireza-minagar-b450aa173)
 - GitHub: [github.com/aliminagar](https://github.com/aliminagar)
